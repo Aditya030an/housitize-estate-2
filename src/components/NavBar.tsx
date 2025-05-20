@@ -339,8 +339,8 @@ const Navbar = () => {
               <Image
                 src="/assets/images/housitize-estate-logo.jpg"
                 alt="Logo"
-                width={200}
-                height={200}
+                width={100}
+                height={40}
               />
             </Link>
           </div>
