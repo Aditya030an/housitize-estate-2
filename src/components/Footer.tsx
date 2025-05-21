@@ -12,7 +12,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center justify-center">
                 <Mail size={18} className="mr-2" />
-                <a href="mailto:info@example.com" className="hover:text-gray-900">info@example.com</a>
+                <a href="mailto:info@example.com" className="hover:text-gray-900">housitizeestate1@gmail.com</a>
               </li>
               <li className="flex items-center justify-center">
                 <Phone size={18} className="mr-2" />
@@ -20,7 +20,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center justify-center">
                 <MapPin size={18} className="lg:-translate-y-3 xl:-translate-y-0" />
-                <span>123 Example St, Jaipur, India</span>
+                <span>Sector 75 Noida, India</span>
               </li>
             </ul>
           </div>
