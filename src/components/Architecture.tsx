@@ -15,14 +15,14 @@ const ArchitectureSection = () => {
   const architecture = {
     title: "Constructive culture, urban development and efficiency",
     description:
-      "The value of architecture at DEMIGOD lies not only in its dialogue with modern art, the recovery and reconversion of industrial spaces and research into new materials, but also in reflection and study on current and future challenges in this discipline. Consequently, DEMIGOD promotes debates, organises professional encounters, conferences and receives visits with the aim of generating and sharing value.",
+      "The value of architecture at Housitize Estate lies not only in its dialogue with modern art, the recovery and reconversion of industrial spaces and research into new materials, but also in reflection and study on current and future challenges in this discipline. Consequently, Housitize Estate promotes debates, organises professional encounters, conferences and receives visits with the aim of generating and sharing value.",
   };
 
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const sustainableDesign = {
     title: "Innovative Design and Sustainable Solutions",
     description:
-      "At DEMIGOD, we prioritize innovative design and sustainable solutions that not only meet the aesthetic and functional needs of our clients but also contribute to the well-being of our environment. Our approach integrates cutting-edge technology with eco-friendly practices to create spaces that are both beautiful and responsible.",
+      "At Housitize Estate, we prioritize innovative design and sustainable solutions that not only meet the aesthetic and functional needs of our clients but also contribute to the well-being of our environment. Our approach integrates cutting-edge technology with eco-friendly practices to create spaces that are both beautiful and responsible.",
   };
 
   // eslint-disable-next-line @typescript-eslint/no-unused-vars

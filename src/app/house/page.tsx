@@ -626,7 +626,7 @@ const House = () => {
       {/*Logo Marquee*/}
       <div className="w-full bg-white flex flex-col justify-center items-center my-16">
         <p className="mb-4 text-sm text-gray-700">
-          Thousands of world&apos;s leading companies trust Demigod
+          Thousands of world&apos;s leading companies trust Housitize Estate
         </p>
         <Marquee
           gradient={false}

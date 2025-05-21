@@ -58,7 +58,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 pt-8 border-t border-gray-200 text-center">
-          <p>&copy; 2025 DEMIGOD. All rights reserved.</p>
+          <p>&copy; 2025 Housitize Estate. All rights reserved.</p>
         </div>
       </div>
     </footer>

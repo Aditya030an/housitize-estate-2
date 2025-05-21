@@ -89,7 +89,7 @@ const ContactUs = () => {
   const services = [
     {
       icon: ClipboardList,
-      title: "Ask Demigod",
+      title: "Ask Housitize Estate",
       description:
         "The quickest and easiest way to reach us! Fill out our secure online form and tell us about your dream home. We'll get back to you within 24 hours.",
       buttonText: "Get in Touch",
@@ -119,7 +119,7 @@ const ContactUs = () => {
   const contactUsAccordion = [
     {
       id: "item-1",
-      question: "How can I get in touch with Demigod Estate?",
+      question: "How can I get in touch with Housitize Estate?",
       answer:
         "You can reach us by filling out our online form, calling us, visiting our office, or sending us an email. Check the details above for more information.",
       buttons: [
@@ -474,8 +474,8 @@ const ContactUs = () => {
                     <div className="space-y-1 leading-none">
                       <FormLabel>
                         I agree to the use or processing of my personal
-                        information by Demigod for the purpose of fulfilling
-                        this request and in accordance with Demigod&apos;s
+                        information by Housitize Estate for the purpose of fulfilling
+                        this request and in accordance with Housitize Estate&apos;s
                         Privacy Statement.
                       </FormLabel>
                       <FormMessage />

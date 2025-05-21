@@ -131,7 +131,7 @@ const SelfSustainableHome = () => {
               Redefining Sustainability
             </h1>
             <p className="mb-8 text-lg text-gray-200 sm:text-xl">
-              Demigod builds Net-Zero homes that are energy-efficient,
+              Housitize Estate builds Net-Zero homes that are energy-efficient,
               <br />
               self-sustaining, and affordable.
             </p>

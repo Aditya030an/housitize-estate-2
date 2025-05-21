@@ -321,8 +321,8 @@ const KnowMore = () => {
                     <div className="space-y-1 leading-none">
                       <FormLabel>
                         I agree to the use or processing of my personal
-                        information by Demigod for the purpose of fulfilling
-                        this request and in accordance with Demigod&apos;s
+                        information by Housitize Estate for the purpose of fulfilling
+                        this request and in accordance with Housitize Estate&apos;s
                         Privacy Statement.
                       </FormLabel>
                       <FormMessage />

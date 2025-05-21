@@ -428,7 +428,7 @@ const Interior = () => {
               We are the best interior design studio in Colarado
             </h1>
             <p className="text-base text-gray-600">
-              At DEMIGOD, we bring your vision to life through exceptional
+              At Housitize Estate, we bring your vision to life through exceptional
               interior design. Our passion lies in creating functional and
               aesthetic spaces tailored to your unique style. With a focus on
               innovation, craftsmanship, and attention to detail, we transform

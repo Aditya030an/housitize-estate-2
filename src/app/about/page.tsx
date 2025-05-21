@@ -177,7 +177,7 @@ const About = () => {
             className="text-3xl md:text-4xl lg:text-[4rem] text-white font-normal leading-tight md:leading-tight lg:leading-[1.15]"
             style={{ fontFamily: "initial" }}
           >
-            Demigod is a privately held full-service creative life science,
+            Housitize Estate is a privately held full-service creative life science,
             creative office, and industrial real estate management firm.
           </h1>
         </div>

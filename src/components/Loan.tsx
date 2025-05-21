@@ -166,7 +166,7 @@ const Loan = () => {
                     htmlFor="terms"
                     className="text-sm text-gray-600 leading-relaxed"
                   >
-                    I hereby appoint Demigod Real Estate as my authorised
+                    I hereby appoint Housitize Estate as my authorised
                     representative to receive my credit information from CIBIL.
                     I hereby accept terms & conditions.{" "}
                   </label>
